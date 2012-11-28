@@ -1,3 +1,4 @@
+//look up serial number
 #include <stdio.h>
 #include <sys/ioctl.h>
 #include <linux/hdreg.h>
